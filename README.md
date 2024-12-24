@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **P.hd**
 
-- 🌱 I’m currently learning **Vunerability analysis**
+- 🌱 I’m currently learning **Software Vulnerabilty Analysis**
 
 - 👯 I’m looking to collaborate on **React and C# Projects**
 
-- 💬 Ask me about **react, Vue, Machine Learning**
+- 💬 Ask me about **react, Vue, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **sameermankotia2000@gmail.com**
 
-- ⚡ Fun fact **I think deep**
+- ⚡ Fun fact **I Spent my weekends on learning new web Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
