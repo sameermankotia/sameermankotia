@@ -47,6 +47,8 @@ A social media platform powered by Flask and Vue.js. Focused on user engagement 
 Developing efficient simulators for RISC-V instruction sets, combining modular architecture and robust testing frameworks, with applications in embedded systems and beyond.  
 
 ---
+### Checkout my Recent Publication-:
+- **Deep Learning-Powered Interactive Art: A Framework for Gesture Recognition and Multi-Style Digital Painting using MediaPipe and TensorFlow**(https://www.irejournals.com/formatedpaper/1706740.pdf)
 
 ### 🤝 Let’s Connect  
 
