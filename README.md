@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sameer Mankotia</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on **P.hd**
+- 🔭 I’m currently working on my **P.hd**
 
 - 🌱 I’m currently learning **Software Vulnerabilty Analysis**
 
-- 👯 I’m looking to collaborate on **React and C# Projects**
+- 👯 I’m looking to collaborate on **React, ML and Deep learning Projects**
 
 - 💬 Ask me about **react, Vue, Machine Learning, Deep Learning**
 
