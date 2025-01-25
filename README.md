@@ -54,7 +54,7 @@ Developing efficient simulators for RISC-V instruction sets, combining modular a
 
 - **📧 Email:** [saameermankotia24@gmail.com](mailto:saameermankotia24@gmail.com)  
 - **💼 LinkedIn:** [linkedin.com/in/sameer-mankotia](#)  
-- **🔗 GitHub:** [github.com/YourGitHubUsername](#)  
+- **🔗 GitHub:** [github.com/Sameermankotia](#)  
 
 ---
 
