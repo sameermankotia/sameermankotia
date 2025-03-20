@@ -6,7 +6,7 @@
 
 ### 📜 About Me
 
-I’m a Ph.D. student in Computer Science at the University of Idaho, with a Master's in the same field. My journey in tech has been fueled by curiosity, persistence, and a commitment to innovation. From developing intuitive software solutions to advancing research in assembly languages like RISC-V, I strive to make meaningful contributions to the tech ecosystem.  
+I’m a Ph.D. student in Computer Science at the University of Idaho, with a Bachelor's in the same field. My journey in tech has been fueled by curiosity, persistence, and a commitment to innovation. From developing intuitive software solutions to advancing research in assembly languages like RISC-V, I strive to make meaningful contributions to the tech ecosystem.  
 
 ---
 
