@@ -1,7 +1,7 @@
 # Hi there, I'm Sameer Mankotia! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=gradient&center=true&vCenter=true&width=650&lines=Ph.D.+Computer+Science+Student;Passionate+Full-Stack+Developer;RISC-V+Assembly+Researcher;AI+%26+ML+Enthusiast;Problem+Solver+%26+Innovator" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=gradient&center=true&vCenter=true&width=650&lines=Ph.D.+Computer+Science+Student;Passionate+Full-Stack+Developer;;AI+%26+ML+Enthusiast;Problem+Solver+%26+Innovator" alt="Dynamic Title" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 > *"Code is poetry written in logic, and I'm here to compose symphonies"*
 
-I'm a **Ph.D. Computer Science student** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact.
+I'm a **Ph.D. Computer Science student** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact with development.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
