@@ -19,13 +19,8 @@
 
 > *"Code is poetry written in logic, and I'm here to compose symphonies"*
 
-I'm a **Ph.D. Computer Science student** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact. My journey spans from crafting elegant software architectures to pioneering research in RISC-V assembly languages and AI systems.
+I'm a **Ph.D. Computer Science student** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact.
 
-### 🎯 Current Mission
-- 🔬 **Research Focus:** Developing cutting-edge simulators for RISC-V instruction sets
-- 🎯 **Vision:** Contributing to the next generation of embedded systems and computer architecture
-- 🏆 **Recent Wins:** 2024-25 Best Student Employee Award & Smart India Hackathon 3rd Runner-Up
-- 📚 **Published Research:** Deep Learning-Powered Interactive Art Systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
