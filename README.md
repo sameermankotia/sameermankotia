@@ -1,11 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Sameer Mankotia 👋
+<a href="https://github.com/sameermankotia">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Ph.D.+CS+Candidate+%C2%B7+University+of+Idaho;AI+%26+Web+Dev+Intern+%40+IIDS%2C+UIdaho;RISC-V+Security+Researcher;Federated+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/sameermankotia)
-[![GitHub Followers](https://img.shields.io/github/followers/Sameermankotia?label=Followers&style=for-the-badge&color=blue&labelColor=black)](https://github.com/sameermankotia)
-[![Focus](https://img.shields.io/badge/Focus-RISC--V%20%26%20Secure%20Systems-brightgreen?style=for-the-badge)](https://github.com/sameermankotia)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=for-the-badge)](https://github.com/sameermankotia)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=378ADD&style=for-the-badge)](https://github.com/sameermankotia)
+[![GitHub Followers](https://img.shields.io/github/followers/Sameermankotia?label=Followers&style=for-the-badge&color=blue&labelColor=0D1117)](https://github.com/sameermankotia)
+[![Focus](https://img.shields.io/badge/Focus-RISC--V%20%26%20Secure%20Systems-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
+[![IIDS Intern](https://img.shields.io/badge/Interning%20@-IIDS%20UIdaho-534AB7?style=for-the-badge&labelColor=0D1117)](https://www.iids.uidaho.edu)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
 
 </div>
 
@@ -13,9 +18,7 @@
 
 ## About me
 
-I am a **Ph.D. Candidate in Computer Science** at the University of Idaho. My research focuses on secure-by-design processor architectures, privacy-preserving federated learning for IoT intrusion detection, and machine learning-driven web performance systems. I combine systems-level research with full-stack engineering and have published work across IEEE, MDPI, and other peer-reviewed venues.
-
-Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS), University of Idaho** as an AI and Web Development Intern.
+I am a **Ph.D. Candidate in Computer Science** at the University of Idaho. My research spans secure-by-design processor architectures, privacy-preserving federated learning for IoT intrusion detection, and machine learning-driven web performance systems. Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS), University of Idaho** as an AI and Web Development Intern. Six peer-reviewed publications across IEEE, MDPI, and other venues.
 
 ---
 
@@ -40,13 +43,13 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 
 ## Professional experience
 
-| Organization | Role | Domain |
-|---|---|---|
-| **IIDS, University of Idaho** *(current)* | AI and Web Development Intern | AI systems, web development |
-| University of Idaho | Research Assistant (Ph.D.) | Secure processors, RISC-V, federated ML |
-| Cisco | Software Engineering Intern | Network solutions |
-| DRDO | Research Intern | Defense technology |
-| Hewlett Packard Enterprise | Technical Intern | Enterprise solutions |
+| | Organization | Role | Domain |
+|---|---|---|---|
+| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **IIDS, University of Idaho** | AI and Web Development Intern | AI systems, web development |
+| | University of Idaho | Research Assistant (Ph.D.) | Secure processors, RISC-V, federated ML |
+| | Cisco | Software Engineering Intern | Network solutions |
+| | DRDO | Research Intern | Defense technology |
+| | Hewlett Packard Enterprise | Technical Intern | Enterprise solutions |
 
 ---
 
@@ -59,9 +62,9 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 **Date:** January 2026
 **Link:** https://www.mdpi.com/2624-800X/6/1/10
 
-> Introduces FedPrIDS, a federated learning system for privacy-preserving collaborative IDS in IoT. Evaluated on CIC-IDS-2017, UNSW-NB15, and Bot-IoT datasets across five fictitious organization types. Achieved 8.5–14.4% accuracy gain over non-federated baselines, detection accuracy up to 92.1%, and reduced inter-organizational communication overhead by 50% within 20 training rounds.
+> Introduces FedPrIDS, a federated learning system for privacy-preserving collaborative IDS in IoT. Evaluated on CIC-IDS-2017, UNSW-NB15, and Bot-IoT datasets. Achieved 8.5–14.4% accuracy gain over non-federated baselines, detection accuracy up to 92.1%, and reduced inter-organizational communication overhead by 50% within 20 training rounds.
 
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-blue?style=flat-square) ![IoT Security](https://img.shields.io/badge/IoT%20Security-teal?style=flat-square) ![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection-purple?style=flat-square) ![MDPI](https://img.shields.io/badge/Published-MDPI-success?style=flat-square)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-378ADD?style=flat-square&labelColor=0D1117&color=378ADD) ![IoT Security](https://img.shields.io/badge/IoT%20Security-1D9E75?style=flat-square&labelColor=0D1117&color=1D9E75) ![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection-7F77DD?style=flat-square&labelColor=0D1117&color=7F77DD) ![MDPI](https://img.shields.io/badge/Published-MDPI-success?style=flat-square)
 
 ---
 
@@ -72,9 +75,9 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 **Date:** January 2026
 **Link:** https://ieeexplore.ieee.org
 
-> Presents ReactSmart, a machine learning framework for adaptive resource management in React applications. The system analyzes four contextual dimensions — user interaction patterns, application state, network conditions, and device capabilities — to proactively load components and reduce wait times, with measurable improvements on Core Web Vitals metrics.
+> Presents ReactSmart, a machine learning framework for adaptive resource management in React applications. Analyzes user interaction patterns, application state, network conditions, and device capabilities to proactively load components and improve Core Web Vitals.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square) ![Web Performance](https://img.shields.io/badge/Web%20Performance-teal?style=flat-square) ![React](https://img.shields.io/badge/React-purple?style=flat-square) ![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-success?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-378ADD?style=flat-square&labelColor=0D1117) ![Web Performance](https://img.shields.io/badge/Web%20Performance-1D9E75?style=flat-square&labelColor=0D1117) ![React](https://img.shields.io/badge/React-7F77DD?style=flat-square&labelColor=0D1117) ![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-success?style=flat-square)
 
 ---
 
@@ -84,9 +87,9 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 **Venue:** 2025 Cyber Awareness and Research Symposium (CARS), IEEE · pp. 1–6
 **Date:** October 2025
 
-> Introduces BHPol, the binary implementation of the HPol hierarchical security policy framework. BHPol enables on-chip enforcement of security policies using associative memory, checking each low-level instruction against a predefined static policy set. Targets 2024 CWE Top 10 KEV weakness classes in industrial control systems.
+> Introduces BHPol, the binary implementation of the HPol hierarchical security policy framework. Enables on-chip enforcement of security policies using associative memory, targeting the 2024 CWE Top 10 KEV weakness classes.
 
-![ICS Security](https://img.shields.io/badge/ICS%20Security-coral?style=flat-square) ![Firmware](https://img.shields.io/badge/Firmware%20Policy-blue?style=flat-square) ![IEEE CARS](https://img.shields.io/badge/Published-IEEE%20CARS-success?style=flat-square)
+![ICS Security](https://img.shields.io/badge/ICS%20Security-D85A30?style=flat-square&labelColor=0D1117) ![Firmware Policy](https://img.shields.io/badge/Firmware%20Policy-378ADD?style=flat-square&labelColor=0D1117) ![IEEE CARS](https://img.shields.io/badge/Published-IEEE%20CARS-success?style=flat-square)
 
 ---
 
@@ -96,9 +99,9 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 **Venue:** 2025 IEEE 18th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC) · pp. 245–253
 **Date:** December 2025
 
-> Proposes FlexSiMArch, a modular and extensible simulator for developing secure-by-design digital processors. Addresses the lack of a top-to-bottom co-designed solution for low-level vulnerability prevention, with a focus on incremental integration with existing development processes and toolsets.
+> Proposes FlexSiMArch, a modular extensible simulator for secure-by-design digital processors. Addresses the top-to-bottom solution gap for low-level vulnerability prevention with incremental integration support.
 
-![RISC-V](https://img.shields.io/badge/RISC--V-teal?style=flat-square) ![Secure Processors](https://img.shields.io/badge/Secure%20Processors-blue?style=flat-square) ![IEEE MCSoC](https://img.shields.io/badge/Published-IEEE%20MCSoC-success?style=flat-square)
+![RISC-V](https://img.shields.io/badge/RISC--V-1D9E75?style=flat-square&labelColor=0D1117) ![Secure Processors](https://img.shields.io/badge/Secure%20Processors-378ADD?style=flat-square&labelColor=0D1117) ![IEEE MCSoC](https://img.shields.io/badge/Published-IEEE%20MCSoC-success?style=flat-square)
 
 ---
 
@@ -108,22 +111,22 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 **Venue:** Available at SSRN 4808029 · Preprint
 **Link:** https://ssrn.com/abstract=4808029
 
-> Introduces MatFlow, a web-based machine learning platform for materials science that supports both forward and inverse design of materials. Demonstrated through a bandgap prediction application for semiconductor compound screening.
+> Introduces MatFlow, a web-based ML platform for materials science supporting both forward and inverse design. Applied to bandgap prediction for semiconductor compound screening.
 
-![Materials Science](https://img.shields.io/badge/Materials%20Science-purple?style=flat-square) ![ML Platform](https://img.shields.io/badge/ML%20Platform-teal?style=flat-square) ![SSRN](https://img.shields.io/badge/Preprint-SSRN-orange?style=flat-square)
+![Materials Science](https://img.shields.io/badge/Materials%20Science-7F77DD?style=flat-square&labelColor=0D1117) ![ML Platform](https://img.shields.io/badge/ML%20Platform-1D9E75?style=flat-square&labelColor=0D1117) ![SSRN](https://img.shields.io/badge/Preprint-SSRN-BA7517?style=flat-square&labelColor=0D1117)
 
 ---
 
 ### 6. Deep Learning-Powered Interactive Art: A Framework for Gesture Recognition and Multi-Style Digital Painting
 
 **Authors:** Sameer Mankotia
-**Venue:** IRE Journals (ICONIC Research and Engineering Journals) · Vol. 8, Issue 6, p. 15
+**Venue:** IRE Journals (ICONIC) · Vol. 8, Issue 6, p. 15
 **Date:** 2024
 **Link:** https://www.irejournals.com/formatedpaper/1706740.pdf
 
-> Proposes a gesture-based digital painting framework using MediaPipe for hand tracking and TensorFlow for multi-style transfer. Explores the intersection of AI and creative expression through real-time interactive art generation.
+> Gesture-based digital painting framework using MediaPipe for hand tracking and TensorFlow for real-time multi-style transfer. Explores the intersection of AI and creative expression.
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-coral?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-teal?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-D85A30?style=flat-square&labelColor=0D1117) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7F77DD?style=flat-square&labelColor=0D1117) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1D9E75?style=flat-square&labelColor=0D1117)
 
 ---
 
@@ -131,14 +134,16 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameermankotia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameermankotia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&bg_color=0D1117&title_color=378ADD&icon_color=1D9E75&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&bg_color=0D1117&title_color=378ADD&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sameermankotia&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sameermankotia&theme=tokyonight&hide_border=true&background=0D1117&ring=378ADD&fire=1D9E75&currStreakLabel=378ADD)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameermankotia&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=378ADD&line=1D9E75&point=7F77DD)
 
 | Total commits | Longest streak | Stars earned | Total forks | Publications |
 |:---:|:---:|:---:|:---:|:---:|
-| 2,847 | 210 days | 127 | 89 | 6 |
+| **2,847** | **210 days** | **127** | **89** | **6** |
 
 </div>
 
@@ -157,7 +162,7 @@ Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saameermankotia2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saameer24/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SameerMankotia)
 
@@ -166,5 +171,5 @@ Open to: Research collaborations · Internship and full-time opportunities · Op
 ---
 
 <div align="center">
-<sub>Ph.D. Candidate · University of Idaho · Computer Science</sub>
+<sub>Ph.D. Candidate · University of Idaho · Computer Science · <a href="https://www.iids.uidaho.edu">IIDS Intern</a></sub>
 </div>
