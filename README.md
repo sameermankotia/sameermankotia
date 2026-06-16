@@ -1,13 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/sameermankotia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Ph.D.+CS+Candidate+%C2%B7+University+of+Idaho;AI+%26+Web+Dev+Intern+%40+IIDS%2C+UIdaho;RISC-V+Security+Researcher;Federated+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Ph.D.+CS+Candidate+%C2%B7+University+of+Idaho;AI+%26+Web+Dev+Intern+%40+IIDS%2C+UIdaho;RISC-V+Security+Researcher;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=378ADD&style=for-the-badge)](https://github.com/sameermankotia)
-[![GitHub Followers](https://img.shields.io/github/followers/Sameermankotia?label=Followers&style=for-the-badge&color=blue&labelColor=0D1117)](https://github.com/sameermankotia)
 [![Focus](https://img.shields.io/badge/Focus-RISC--V%20%26%20Secure%20Systems-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
 [![IIDS Intern](https://img.shields.io/badge/Interning%20@-IIDS%20UIdaho-534AB7?style=for-the-badge&labelColor=0D1117)](https://www.iids.uidaho.edu)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
