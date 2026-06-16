@@ -1,252 +1,170 @@
-# Hi there, I'm Sameer Mankotia! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=gradient&center=true&vCenter=true&width=650&lines=Ph.D.+Computer+Science+Student;Passionate+Full-Stack+Developer;;AI+%26+ML+Enthusiast;Problem+Solver+%26+Innovator" alt="Dynamic Title" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sameermankotia?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-RISC--V%20Research-brightgreen?style=for-the-badge" alt="Current Focus" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaborations-success?style=for-the-badge" alt="Status" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-> *"Code is poetry written in logic, and I'm here to compose symphonies"*
-
-I'm a **Ph.D. Computer Science Candidate** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact with development.
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### 🎨 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts,c,java,php&theme=dark" />
+# Hi there, I'm Sameer Mankotia 👋
 
-### 🌐 Frontend Technologies  
-<img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,sass,bootstrap,tailwind&theme=dark" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,flask,django,laravel,mysql,mongodb,postgresql,redis&theme=dark" />
-
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,jenkins,azure,aws,git,github,linux,postman&theme=dark" />
-
-### 🧪 Testing & AI/ML
-<img src="https://skillicons.dev/icons?i=jest,cypress,tensorflow,pytorch,opencv&theme=dark" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/sameermankotia)
+[![GitHub Followers](https://img.shields.io/github/followers/Sameermankotia?label=Followers&style=for-the-badge&color=blue&labelColor=black)](https://github.com/sameermankotia)
+[![Focus](https://img.shields.io/badge/Focus-RISC--V%20%26%20Secure%20Systems-brightgreen?style=for-the-badge)](https://github.com/sameermankotia)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=for-the-badge)](https://github.com/sameermankotia)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🏅_2024--25-Best_Student_Employee-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-        <br/>
-        <sub><b>University Recognition</b></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🥉_Smart_India-Hackathon_3rd-FF6B35?style=for-the-badge&labelColor=1a1a1a" />
-        <br/>
-        <sub><b>National Competition</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📚_Research-Published_Paper-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
-        <br/>
-        <sub><b>Academic Publication</b></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/💼_Internships-4+_Organizations-8B5CF6?style=for-the-badge&labelColor=1a1a1a" />
-        <br/>
-        <sub><b>Industry Experience</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameermankotia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=💻%20GitHub%20Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=🚀%20Most%20Used%20Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameermankotia&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameermankotia&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-### 📈 Performance Metrics
-
-<div align="center">
-  
-| 🔥 Current Streak | 🏆 Longest Streak | 📊 Total Contributions | ⭐ Total Stars | 🍴 Total Forks |
-|:---:|:---:|:---:|:---:|:---:|
-| **50 days** | **210 days** | **2,847 commits** | **127** | **89** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 💼 Professional Journey
-
-<div align="center">
-
-### 🏢 Industry Experience
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<br><b>Software Engineering</b>
-<br><sub>Network Solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/DRDO-FF6B35?style=for-the-badge&logo=shield&logoColor=white" />
-<br><b>Research Internship</b>
-<br><sub>Defense Technology</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/HPE-00B388?style=for-the-badge&logo=hewlett-packard-enterprise&logoColor=white" />
-<br><b>Technical Intern</b>
-<br><sub>Enterprise Solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Univ_Idaho-FFB81C?style=for-the-badge&logo=university&logoColor=black" />
-<br><b>Research Assistant</b>
-<br><sub>Academic Research</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 📚 Research & Publications
-
-### 🔬 Current Research Focus
-<div align="center">
-  <img src="https://img.shields.io/badge/🏗️_RISC--V-Simulator_Development-1E90FF?style=for-the-badge&labelColor=000000" />
-  <br/>
-  <sub><i>Architecting efficient simulators for RISC-V instruction sets with modular design and comprehensive testing frameworks</i></sub>
-</div>
-
-### 📄 Featured Publication
-<div align="center">
-  
-**[Deep Learning-Powered Interactive Art: A Framework for Gesture Recognition and Multi-Style Digital Painting](https://www.irejournals.com/formatedpaper/1706740.pdf)**
-
-<img src="https://img.shields.io/badge/Published-IREJ_Journal-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Topics-AI_Computer_Vision-blue?style=for-the-badge" />
-
-*Exploring the intersection of AI and creative expression through innovative gesture-based interfaces using MediaPipe and TensorFlow*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🎯 Core Expertise
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=🤖+Machine+Learning+%26+Neural+Networks;🧠+Large+Language+Models+(LLMs);📊+Data+Science+%26+Predictive+Analytics;👁️+Computer+Vision+%26+AI+Systems;⚙️+RISC-V+Assembly+%26+Architecture;🌐+Full-Stack+Web+Development;🔧+Algorithm+Design+%26+Optimization;📱+Embedded+Systems+Development" alt="Expertise Animation" />
-
-</div>
-
-### 🧠 Technical Competencies
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<h4>💻 Software Engineering</h4>
-<img src="https://img.shields.io/badge/OOP-Design_Patterns-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/SOLID-Principles-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean-Architecture-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Design-Systems-purple?style=flat-square" />
-</td>
-<td align="center" width="33%">
-<h4>🔬 Research & Development</h4>
-<img src="https://img.shields.io/badge/RISC--V-Architecture-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded-Systems-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Academic-Writing-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Technical-Documentation-orange?style=flat-square" />
-</td>
-<td align="center" width="33%">
-<h4>🤖 AI & Machine Learning</h4>
-<img src="https://img.shields.io/badge/Deep-Learning-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer-Vision-green?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM-Integration-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-Science-green?style=flat-square" />
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 📫 Reach Out
-
-<a href="mailto:saameermankotia2000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/saameer24/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/sameermankotia">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/SameerMankotia">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-### 🌟 Open For
-
-<img src="https://img.shields.io/badge/🤝-Research_Collaborations-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼-Internship_Opportunities-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀-Open_Source_Projects-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📝-Technical_Writing-purple?style=for-the-badge" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<div align="center">
-  
-## 💡 *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+## About me
 
-**⭐ Star this repository if you found it helpful! ⭐**
+I am a **Ph.D. Candidate in Computer Science** at the University of Idaho. My research focuses on secure-by-design processor architectures, privacy-preserving federated learning for IoT intrusion detection, and machine learning-driven web performance systems. I combine systems-level research with full-stack engineering and have published work across IEEE, MDPI, and other peer-reviewed venues.
 
-<img src="https://komarev.com/ghpvc/?username=Sameermankotia&color=brightgreen&style=for-the-badge" />
+Currently interning at the **Institute for Interdisciplinary Data Sciences (IIDS), University of Idaho** as an AI and Web Development Intern.
 
+---
+
+## Tech stack
+
+### Programming languages
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![C#](https://skillicons.dev/icons?i=cs&theme=dark) ![PHP](https://skillicons.dev/icons?i=php&theme=dark)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react&theme=dark) ![Angular](https://skillicons.dev/icons?i=angular&theme=dark) ![Vue](https://skillicons.dev/icons?i=vue&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark) ![SASS](https://skillicons.dev/icons?i=sass&theme=dark)
+
+### Backend and databases
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Django](https://skillicons.dev/icons?i=django&theme=dark) ![Flask](https://skillicons.dev/icons?i=flask&theme=dark) ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
+
+### DevOps and cloud
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=dark) ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+
+### AI and machine learning
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)
+
+---
+
+## Professional experience
+
+| Organization | Role | Domain |
+|---|---|---|
+| **IIDS, University of Idaho** *(current)* | AI and Web Development Intern | AI systems, web development |
+| University of Idaho | Research Assistant (Ph.D.) | Secure processors, RISC-V, federated ML |
+| Cisco | Software Engineering Intern | Network solutions |
+| DRDO | Research Intern | Defense technology |
+| Hewlett Packard Enterprise | Technical Intern | Enterprise solutions |
+
+---
+
+## Research and publications
+
+### 1. FedPrIDS: Privacy-Preserving Federated Learning for Collaborative Network Intrusion Detection in IoT
+
+**Authors:** Sameer Mankotia, Daniel Conte de Leon, Bhaskar P Rimal
+**Venue:** Journal of Cybersecurity and Privacy, MDPI · Vol. 6, Issue 1, p. 10
+**Date:** January 2026
+**Link:** https://www.mdpi.com/2624-800X/6/1/10
+
+> Introduces FedPrIDS, a federated learning system for privacy-preserving collaborative IDS in IoT. Evaluated on CIC-IDS-2017, UNSW-NB15, and Bot-IoT datasets across five fictitious organization types. Achieved 8.5–14.4% accuracy gain over non-federated baselines, detection accuracy up to 92.1%, and reduced inter-organizational communication overhead by 50% within 20 training rounds.
+
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-blue?style=flat-square) ![IoT Security](https://img.shields.io/badge/IoT%20Security-teal?style=flat-square) ![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection-purple?style=flat-square) ![MDPI](https://img.shields.io/badge/Published-MDPI-success?style=flat-square)
+
+---
+
+### 2. ReactSmart: ML-Driven Adaptation for Scalable React-Based Web Application Performance
+
+**Authors:** Sameer Mankotia, Daniel Conte de Leon, Hasan M Jamil
+**Venue:** IEEE Access · Vol. 14, pp. 5522–5540
+**Date:** January 2026
+**Link:** https://ieeexplore.ieee.org
+
+> Presents ReactSmart, a machine learning framework for adaptive resource management in React applications. The system analyzes four contextual dimensions — user interaction patterns, application state, network conditions, and device capabilities — to proactively load components and reduce wait times, with measurable improvements on Core Web Vitals metrics.
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square) ![Web Performance](https://img.shields.io/badge/Web%20Performance-teal?style=flat-square) ![React](https://img.shields.io/badge/React-purple?style=flat-square) ![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-success?style=flat-square)
+
+---
+
+### 3. Hierarchical Firmware-Level Security Policy for Industrial Control Systems
+
+**Authors:** Sameer Mankotia, Daniel Conte de Leon, Jennifer Johnson-Leung
+**Venue:** 2025 Cyber Awareness and Research Symposium (CARS), IEEE · pp. 1–6
+**Date:** October 2025
+
+> Introduces BHPol, the binary implementation of the HPol hierarchical security policy framework. BHPol enables on-chip enforcement of security policies using associative memory, checking each low-level instruction against a predefined static policy set. Targets 2024 CWE Top 10 KEV weakness classes in industrial control systems.
+
+![ICS Security](https://img.shields.io/badge/ICS%20Security-coral?style=flat-square) ![Firmware](https://img.shields.io/badge/Firmware%20Policy-blue?style=flat-square) ![IEEE CARS](https://img.shields.io/badge/Published-IEEE%20CARS-success?style=flat-square)
+
+---
+
+### 4. FlexSiMArch: An Extensible Simulator for Research and Development in Secure-by-Design Processor Technologies
+
+**Authors:** Sameer Mankotia, Daniel Conte de Leon
+**Venue:** 2025 IEEE 18th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC) · pp. 245–253
+**Date:** December 2025
+
+> Proposes FlexSiMArch, a modular and extensible simulator for developing secure-by-design digital processors. Addresses the lack of a top-to-bottom co-designed solution for low-level vulnerability prevention, with a focus on incremental integration with existing development processes and toolsets.
+
+![RISC-V](https://img.shields.io/badge/RISC--V-teal?style=flat-square) ![Secure Processors](https://img.shields.io/badge/Secure%20Processors-blue?style=flat-square) ![IEEE MCSoC](https://img.shields.io/badge/Published-IEEE%20MCSoC-success?style=flat-square)
+
+---
+
+### 5. An Online Machine Learning System for Bandgap Engineering
+
+**Authors:** Hasan Jamil, Hasan Rahman, Sameer Mankotia
+**Venue:** Available at SSRN 4808029 · Preprint
+**Link:** https://ssrn.com/abstract=4808029
+
+> Introduces MatFlow, a web-based machine learning platform for materials science that supports both forward and inverse design of materials. Demonstrated through a bandgap prediction application for semiconductor compound screening.
+
+![Materials Science](https://img.shields.io/badge/Materials%20Science-purple?style=flat-square) ![ML Platform](https://img.shields.io/badge/ML%20Platform-teal?style=flat-square) ![SSRN](https://img.shields.io/badge/Preprint-SSRN-orange?style=flat-square)
+
+---
+
+### 6. Deep Learning-Powered Interactive Art: A Framework for Gesture Recognition and Multi-Style Digital Painting
+
+**Authors:** Sameer Mankotia
+**Venue:** IRE Journals (ICONIC Research and Engineering Journals) · Vol. 8, Issue 6, p. 15
+**Date:** 2024
+**Link:** https://www.irejournals.com/formatedpaper/1706740.pdf
+
+> Proposes a gesture-based digital painting framework using MediaPipe for hand tracking and TensorFlow for multi-style transfer. Explores the intersection of AI and creative expression through real-time interactive art generation.
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-coral?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-teal?style=flat-square)
+
+---
+
+## GitHub analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameermankotia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sameermankotia&theme=tokyonight&hide_border=true)
+
+| Total commits | Longest streak | Stars earned | Total forks | Publications |
+|:---:|:---:|:---:|:---:|:---:|
+| 2,847 | 210 days | 127 | 89 | 6 |
+
+</div>
+
+---
+
+## Recognition
+
+| Award | Description |
+|---|---|
+| Best Student Employee 2024–25 | University of Idaho recognition |
+| Smart India Hackathon — 3rd place | National-level competition |
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saameermankotia2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saameer24/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SameerMankotia)
+
+Open to: Research collaborations · Internship and full-time opportunities · Open source projects · Technical writing
+
+---
+
+<div align="center">
+<sub>Ph.D. Candidate · University of Idaho · Computer Science</sub>
 </div>
