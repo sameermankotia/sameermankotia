@@ -19,7 +19,7 @@
 
 > *"Code is poetry written in logic, and I'm here to compose symphonies"*
 
-I'm a **Ph.D. Computer Science student** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact with development.
+I'm a **Ph.D. Computer Science Candidate** at the University of Idaho, passionate about pushing the boundaries of technology and creating innovative solutions that bridge theory with real-world impact with development.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
