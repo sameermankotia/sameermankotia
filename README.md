@@ -56,8 +56,59 @@ currently: Building web platforms at IIDS, University of Idaho
 
 ## 📌 Featured projects
 
+Whatever I pin on GitHub shows up here — a workflow rewrites these cards from my
+pinned repositories every six hours.
+
 <!-- PINNED:START -->
-_This section updates automatically from my pinned repositories._
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/SocialBook-with-Flask-and-vue.js">SocialBook-with-Flask-and-vue.js</a></h3>
+  <p>Social media app using flask SocialBook provides a platform for people to share their thoughts, experiences, and ideas, and to…</p>
+  <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="flask" src="https://img.shields.io/badge/flask-30363D?style=flat-square" />
+  <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-30363D?style=flat-square" />
+  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-30363D?style=flat-square" /></p>
+  <p><sub>★ 1 · updated May 2023</sub></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/Cyberbulling_twitter">Cyberbulling_twitter</a></h3>
+  <p><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" /></p>
+  <p><sub>★ 1 · updated Feb 2023</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/Library_Management_system_C-">Library_Management_system_C-</a></h3>
+  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></p>
+  <p><sub>★ 1 · updated Apr 2024</sub></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/ACMRS-AI-Code-Review-Mentor-System">ACMRS-AI-Code-Review-Mentor-System</a></h3>
+  <p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+  <p><sub>★ 1 · updated May 2025</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/Flakegate">Flakegate</a></h3>
+  <p>A reliability gate for LLM calls in CI — run a prompt k times, score output consistency, and fail the build if it drops below…</p>
+  <p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="anthropic" src="https://img.shields.io/badge/anthropic-30363D?style=flat-square" />
+  <img alt="ci-cd" src="https://img.shields.io/badge/ci--cd-30363D?style=flat-square" />
+  <img alt="devtools" src="https://img.shields.io/badge/devtools-30363D?style=flat-square" />
+  <img alt="llm" src="https://img.shields.io/badge/llm-30363D?style=flat-square" /></p>
+  <p><sub>★ 3 · updated Aug 2026 · <a href="https://test.pypi.org/project/flakegate/">live demo</a></sub></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/sameermankotia/Network-Management-System">Network-Management-System</a></h3>
+  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></p>
+  <p><sub>updated Oct 2026</sub></p>
+</td>
+</tr>
+</table>
+
 <!-- PINNED:END -->
 
 ## Experience
@@ -89,9 +140,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sameermankotia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=378ADD&icon_color=1D9E75&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameermankotia&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD&text_color=C9D1D9" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameermankotia&theme=tokyonight&hide_border=true&background=0D1117&ring=378ADD&fire=1D9E75&currStreakLabel=378ADD" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Sameermankotia&theme=tokyonight&hide_border=true&background=0D1117&ring=378ADD&fire=1D9E75&currStreakLabel=378ADD" alt="GitHub streak" />
 
 </div>
 
@@ -108,7 +159,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saameer24/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SameerMankotia)
 
 Open to: full time database and web developer roles · backend and full stack work · open source
 
