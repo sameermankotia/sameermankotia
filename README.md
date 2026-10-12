@@ -91,8 +91,7 @@ pinned repositories every six hours.
   <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="console-application" src="https://img.shields.io/badge/console--application-30363D?style=flat-square" />
   <img alt="crud" src="https://img.shields.io/badge/crud-30363D?style=flat-square" />
-  <img alt="csharp" src="https://img.shields.io/badge/csharp-30363D?style=flat-square" />
-  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-30363D?style=flat-square" /></p>
+  <img alt="library-management" src="https://img.shields.io/badge/library--management-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated Apr 2024</sub></p>
 </td>
 <td width="50%" valign="top">
@@ -102,7 +101,7 @@ pinned repositories every six hours.
   <img alt="code-review" src="https://img.shields.io/badge/code--review-30363D?style=flat-square" />
   <img alt="developer-tools" src="https://img.shields.io/badge/developer--tools-30363D?style=flat-square" />
   <img alt="llm" src="https://img.shields.io/badge/llm-30363D?style=flat-square" />
-  <img alt="python" src="https://img.shields.io/badge/python-30363D?style=flat-square" /></p>
+  <img alt="static-analysis" src="https://img.shields.io/badge/static--analysis-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated May 2025</sub></p>
 </td>
 </tr>
@@ -121,10 +120,10 @@ pinned repositories every six hours.
   <h3><a href="https://github.com/sameermankotia/Network-Management-System">Network-Management-System</a></h3>
   <p>Full stack network monitoring for campus infrastructure: live device health, topology, alerting and reporting.</p>
   <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-30363D?style=flat-square" />
   <img alt="network-monitoring" src="https://img.shields.io/badge/network--monitoring-30363D?style=flat-square" />
   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-30363D?style=flat-square" />
-  <img alt="react" src="https://img.shields.io/badge/react-30363D?style=flat-square" /></p>
+  <img alt="react" src="https://img.shields.io/badge/react-30363D?style=flat-square" />
+  <img alt="signalr" src="https://img.shields.io/badge/signalr-30363D?style=flat-square" /></p>
   <p><sub>updated Oct 2026</sub></p>
 </td>
 </tr>

@@ -121,6 +121,18 @@ BRANDS = {
 DARK_TEXT = {"javascript", "c", "kotlin"}
 TOPIC_COLOR = "30363D"
 
+# Topics that say the same thing as the language badge beside them.
+LANGUAGE_ALIASES = {
+    "c#": {"csharp", "csharp-net", "dotnet", "net"},
+    "c++": {"cpp", "cplusplus"},
+    "go": {"golang"},
+    "javascript": {"js"},
+    "jupyter notebook": {"jupyter", "notebook"},
+    "python": {"python3"},
+    "shell": {"bash", "sh"},
+    "typescript": {"ts"},
+}
+
 
 def graphql(query, variables, token):
     request = urllib.request.Request(
@@ -172,6 +184,15 @@ def language_badge(language):
     return badge(name, color, LOGOS.get(key), logo_color)
 
 
+def drop_language_duplicates(topics, language):
+    if not language:
+        return topics
+
+    key = language["name"].lower()
+    same = {key, key.replace(" ", "-"), key.replace(" ", "")} | LANGUAGE_ALIASES.get(key, set())
+    return [topic for topic in topics if topic.lower() not in same]
+
+
 def shorten(text, limit=132):
     text = " ".join(text.split())
     if len(text) <= limit:
@@ -189,7 +210,8 @@ def card(repo):
         lines.append(f'<p>{html.escape(shorten(repo["description"]))}</p>')
 
     badges = [language_badge(repo.get("primaryLanguage"))]
-    topics = [node["topic"]["name"] for node in repo["repositoryTopics"]["nodes"]][:4]
+    topics = [node["topic"]["name"] for node in repo["repositoryTopics"]["nodes"]]
+    topics = drop_language_duplicates(topics, repo.get("primaryLanguage"))[:4]
     badges += [badge(topic, TOPIC_COLOR) for topic in topics]
     badges = [b for b in badges if b]
     if badges:
