@@ -1,0 +1,47 @@
+name: Update pinned projects
+
+on:
+  schedule:
+    # Every six hours; pinning a repo shows up on the next run.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_pinned.py
+      - .github/workflows/update-pinned.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pinned
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild the featured-projects block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_pinned.py --user "${{ github.repository_owner }}"
+
+      - name: Commit if the block changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Pinned projects are unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh featured projects from pinned repositories"
+          git push
