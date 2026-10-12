@@ -65,28 +65,44 @@ pinned repositories every six hours.
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/SocialBook-with-Flask-and-vue.js">SocialBook-with-Flask-and-vue.js</a></h3>
-  <p>Social media app using flask SocialBook provides a platform for people to share their thoughts, experiences, and ideas, and to…</p>
+  <p>Social media app built with Flask and Vue.js where people post, follow and engage with each other.</p>
   <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="flask" src="https://img.shields.io/badge/flask-30363D?style=flat-square" />
   <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-30363D?style=flat-square" />
-  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-30363D?style=flat-square" /></p>
+  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-30363D?style=flat-square" />
+  <img alt="python" src="https://img.shields.io/badge/python-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated May 2023</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Cyberbulling_twitter">Cyberbulling_twitter</a></h3>
-  <p><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" /></p>
+  <p>Streamlit app that classifies tweets into six cyberbullying categories using a linear SVM.</p>
+  <p><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="machine-learning" src="https://img.shields.io/badge/machine--learning-30363D?style=flat-square" />
+  <img alt="nlp" src="https://img.shields.io/badge/nlp-30363D?style=flat-square" />
+  <img alt="python" src="https://img.shields.io/badge/python-30363D?style=flat-square" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated Feb 2023</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Library_Management_system_C-">Library_Management_system_C-</a></h3>
-  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></p>
+  <p>Console library management system in C#: catalogue, member and staff menus, borrowing and outstanding loans.</p>
+  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="console-application" src="https://img.shields.io/badge/console--application-30363D?style=flat-square" />
+  <img alt="crud" src="https://img.shields.io/badge/crud-30363D?style=flat-square" />
+  <img alt="csharp" src="https://img.shields.io/badge/csharp-30363D?style=flat-square" />
+  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated Apr 2024</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/ACMRS-AI-Code-Review-Mentor-System">ACMRS-AI-Code-Review-Mentor-System</a></h3>
-  <p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+  <p>Code review assistant that pairs static analysis with LLM review to score technical debt and suggest fixes.</p>
+  <p><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="code-review" src="https://img.shields.io/badge/code--review-30363D?style=flat-square" />
+  <img alt="developer-tools" src="https://img.shields.io/badge/developer--tools-30363D?style=flat-square" />
+  <img alt="llm" src="https://img.shields.io/badge/llm-30363D?style=flat-square" />
+  <img alt="python" src="https://img.shields.io/badge/python-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated May 2025</sub></p>
 </td>
 </tr>
@@ -103,7 +119,12 @@ pinned repositories every six hours.
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Network-Management-System">Network-Management-System</a></h3>
-  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" /></p>
+  <p>Full stack network monitoring for campus infrastructure: live device health, topology, alerting and reporting.</p>
+  <p><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-30363D?style=flat-square" />
+  <img alt="network-monitoring" src="https://img.shields.io/badge/network--monitoring-30363D?style=flat-square" />
+  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-30363D?style=flat-square" />
+  <img alt="react" src="https://img.shields.io/badge/react-30363D?style=flat-square" /></p>
   <p><sub>updated Oct 2026</sub></p>
 </td>
 </tr>
