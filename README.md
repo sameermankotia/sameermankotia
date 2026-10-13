@@ -64,16 +64,6 @@ pinned repositories every six hours.
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/sameermankotia/SocialBook-with-Flask-and-vue.js">SocialBook-with-Flask-and-vue.js</a></h3>
-  <p>Social media app built with Flask and Vue.js where people post, follow and engage with each other.</p>
-  <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="flask" src="https://img.shields.io/badge/flask-30363D?style=flat-square" />
-  <img alt="sqlite3" src="https://img.shields.io/badge/sqlite3-30363D?style=flat-square" />
-  <img alt="vuejs" src="https://img.shields.io/badge/vuejs-30363D?style=flat-square" />
-  <img alt="python" src="https://img.shields.io/badge/python-30363D?style=flat-square" /></p>
-  <p><sub>★ 1 · updated May 2023</sub></p>
-</td>
-<td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Cyberbulling_twitter">Cyberbulling_twitter</a></h3>
   <p>Streamlit app that classifies tweets into six cyberbullying categories using a linear SVM.</p>
   <p><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" />
@@ -83,8 +73,6 @@ pinned repositories every six hours.
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated Feb 2023</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Library_Management_system_C-">Library_Management_system_C-</a></h3>
   <p>Console library management system in C#: catalogue, member and staff menus, borrowing and outstanding loans.</p>
@@ -94,6 +82,8 @@ pinned repositories every six hours.
   <img alt="library-management" src="https://img.shields.io/badge/library--management-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated Apr 2024</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/ACMRS-AI-Code-Review-Mentor-System">ACMRS-AI-Code-Review-Mentor-System</a></h3>
   <p>Code review assistant that pairs static analysis with LLM review to score technical debt and suggest fixes.</p>
@@ -104,8 +94,6 @@ pinned repositories every six hours.
   <img alt="static-analysis" src="https://img.shields.io/badge/static--analysis-30363D?style=flat-square" /></p>
   <p><sub>★ 1 · updated May 2025</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Flakegate">Flakegate</a></h3>
   <p>A reliability gate for LLM calls in CI — run a prompt k times, score output consistency, and fail the build if it drops below…</p>
@@ -116,6 +104,8 @@ pinned repositories every six hours.
   <img alt="llm" src="https://img.shields.io/badge/llm-30363D?style=flat-square" /></p>
   <p><sub>★ 3 · updated Aug 2026 · <a href="https://test.pypi.org/project/flakegate/">live demo</a></sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/sameermankotia/Network-Management-System">Network-Management-System</a></h3>
   <p>Full stack network monitoring for campus infrastructure: live device health, topology, alerting and reporting.</p>
@@ -126,6 +116,7 @@ pinned repositories every six hours.
   <img alt="signalr" src="https://img.shields.io/badge/signalr-30363D?style=flat-square" /></p>
   <p><sub>updated Oct 2026</sub></p>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
