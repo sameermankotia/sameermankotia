@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/sameermankotia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Full+Stack+Web+Developer;Database+Design+%C2%B7+SQL+%C2%B7+APIs;React+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Node.js;Ph.D.+CS+%C2%B7+University+of+Idaho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Software+Engineer;ERP+Apps+%C2%B7+Data+Integration+%C2%B7+ETL;React+%C2%B7+FastAPI+%C2%B7+SQL+%C2%B7+Azure;Ph.D.+CS+%C2%B7+University+of+Idaho" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=378ADD&style=for-the-badge)](https://github.com/sameermankotia)
-[![Focus](https://img.shields.io/badge/Focus-Databases%20%26%20Web%20Apps-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
+[![Focus](https://img.shields.io/badge/Focus-ERP%20%26%20Data%20Integration-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
 [![IIDS](https://img.shields.io/badge/Building%20@-IIDS%20UIdaho-534AB7?style=for-the-badge&labelColor=0D1117)](https://www.iids.uidaho.edu)
 [![Status](https://img.shields.io/badge/Open%20to-Full%20Time%20Roles-success?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/saameer24/)
 
@@ -15,48 +15,77 @@
 
 ## About me
 
-I build data driven web applications from the database up. I design relational schemas, write and tune SQL, build REST APIs, and ship React frontends that stay fast as data grows.
+I am a **Software Engineer Intern at IIDS, University of Idaho**, where I build enterprise ERP applications for payroll and preaward grant management with React and FastAPI. My work covers ERP development, enterprise integrations, ETL pipelines, reporting dashboards and technical support.
 
-I am a **Ph.D. Candidate in Computer Science** at the University of Idaho (graduating Dec 2026) and an **AI and Web Development Intern at IIDS**, where I work on full stack apps used across the university.
+At Hewlett Packard Enterprise I supported manufacturing operations on SAP Business ByDesign, troubleshooting business critical ERP issues across purchasing, inventory and order processing.
+
+I am a **Ph.D. Candidate in Computer Science** at the University of Idaho, graduating Dec 2026.
 
 ```yaml
-role:      Full Stack Web Developer · Database Developer
-databases: PostgreSQL, SQL Server, MySQL, MongoDB, Redis
-backend:   C# / .NET, Node.js, FastAPI, Django, REST APIs
-frontend:  React, TypeScript, Tailwind
-currently: Building web platforms at IIDS, University of Idaho
+role:        Software Engineer · ERP and Data Integration
+languages:   Python, SQL, C++, JavaScript, TypeScript, Bash
+databases:   PostgreSQL, MySQL, relational design, query optimization
+backend:     FastAPI, REST APIs, API integration, data access layers
+data:        Azure Data Factory, ETL, Power BI, data validation
+testing:     NUnit, Jest, Playwright, Postman
+currently:   Building payroll and preaward ERP apps at IIDS, University of Idaho
 ```
 
 ## What I work on
 
-| 🗄️ Databases | ⚙️ Backend | 🖥️ Frontend |
+| 🏢 ERP and Enterprise Apps | 🔄 Data and Integration | 🧪 Testing and Support |
 |---|---|---|
-| Schema design and normalization | REST API design and versioning | React + TypeScript SPAs |
-| Query tuning, indexing, execution plans | Auth, validation, error handling | Component level performance |
-| Migrations and data modeling | ORMs: Entity Framework, SQLAlchemy, Prisma | Core Web Vitals and lazy loading |
-| Caching with Redis | Docker and CI/CD pipelines | Accessible, responsive UI |
+| Payroll and preaward ERP workflows | ETL pipelines with Azure Data Factory | Unit and integration tests with Jest |
+| Business process automation | REST API integration | End to end UI tests with Playwright |
+| Approval and transaction dashboards | Power BI reporting | API testing with Postman |
+| SAP Business ByDesign support | SQL query optimization | Root cause analysis and debugging |
 
 ## Tech stack
 
-**Databases**
+**Languages**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,ts,bash&theme=dark)](https://skillicons.dev)
 
-**Backend**
+**Databases and backend**
 
-[![Backend](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,fastapi,django,flask&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=postgres,mysql,fastapi,nodejs&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,angular&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,html,css&theme=dark)](https://skillicons.dev)
 
-**DevOps and cloud**
+**Cloud, tools and testing**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,jenkins,azure,aws,linux,git&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=azure,docker,linux,git,jest,postman,visualstudio&theme=dark)](https://skillicons.dev)
+
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0D1117)
+![SAP Business ByDesign](https://img.shields.io/badge/SAP%20Business%20ByDesign-0FAAFF?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![NUnit](https://img.shields.io/badge/NUnit-22A34A?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+## 🚀 Highlight project
+
+### FlowLedger: ERP Data Integration and Reporting Pipeline
+
+Python ETL pipeline that joins CRM customer data with ERP project and invoice records in PostgreSQL to build one dataset for enterprise reporting and financial analysis.
+
+* Cleaning and validation rules catch duplicates, invalid dates, bad amounts and orphaned references, and log each rejected record with the reason.
+* SQL reports with joins, CTEs and window functions cover overdue invoices, receivables aging, customer balances, monthly invoicing and project profitability.
+* Streamlit dashboard shows financial KPIs, receivables, project performance, data quality and ETL run history.
+* Idempotent loads, transactional updates, audit logging and automated tests keep the data consistent and traceable.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-30363D?style=flat-square)
 
 ## 📌 Featured projects
 
-Whatever I pin on GitHub shows up here — a workflow rewrites these cards from my
+Whatever I pin on GitHub shows up here. A workflow rewrites these cards from my
 pinned repositories every six hours.
 
 <!-- PINNED:START -->
@@ -124,14 +153,20 @@ pinned repositories every six hours.
 
 ## Experience
 
-| | Organization | Role | Focus |
-|---|---|---|---|
-| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **IIDS, University of Idaho** | AI and Web Development Intern | Full stack web apps, APIs, data |
-| | Hewlett Packard Enterprise | Technical Intern (Summer 2025) | Enterprise software |
-| | University of Idaho, Office of Information and Technology | Student Intern (2023 to 2024) | University IT systems and web |
-| | University of Idaho | Research Assistant (Ph.D.) | ML systems, secure computing |
-| | Cisco | Software Engineering Intern | Network solutions |
-| | DRDO | Research Intern | Defense technology |
+| | Organization | Role | Dates | Focus |
+|---|---|---|---|---|
+| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **IIDS, University of Idaho** | Software Engineer Intern | Jan 2025 to present | Payroll and preaward ERP apps (React, FastAPI), ADF ETL pipelines, Power BI, Jest testing |
+| | Hewlett Packard Enterprise | Software Engineer Summer Intern | May 2024 to Aug 2024 | SAP Business ByDesign support, ERP troubleshooting, data validation and reporting |
+| | Office of Information and Technology, University of Idaho | Software Developer Intern | Jan 2023 to May 2024 | MyUI cards in React and Node.js, Campus Labs REST API, Playwright tests, SQL tuning |
+| | Information Technology Services, University of Idaho | ITS Customer Representative | Jan 2022 to Dec 2022 | Duo MFA, campus Wi-Fi and network support for 10,000+ users |
+
+## Education
+
+| Degree | School | Date |
+|---|---|---|
+| Ph.D. Computer Science | University of Idaho | Expected Dec 2026 |
+| Master of Computer Science | University of Idaho | Dec 2024 |
+| Bachelor of Computer Science | University of Idaho | Dec 2023 |
 
 ## Selected publications
 
@@ -157,22 +192,31 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2
 
 </div>
 
-## Recognition
+## Leadership
+
+| Role | Organization | Dates |
+|---|---|---|
+| Vice Chair, IEEE Computer Society | IEEE Palouse Region | 2025 to present |
+| Webmaster | IEEE Palouse Region | 2025 to present |
+| Director for Student Resources | Associated Students of the University of Idaho (ASUI) | 2022 to 2023 |
+
+## Recognition and certifications
 
 | Award | Description |
 |---|---|
-| Best Student Employee 2024–25 and 2025–26 | University of Idaho |
+| Best Student Employee 2024 to 25 and 2025 to 26 | University of Idaho |
 | Smart India Hackathon, 3rd place | National level competition |
+| SQL Certification | HackerRank |
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saameermankotia2000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Sameerm%40uidaho.edu-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Sameerm@uidaho.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saameer24/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en)
 
-Open to: full time database and web developer roles · backend and full stack work · open source
+Open to: full time software engineer roles · ERP and enterprise application development · data integration and reporting
 
 <div align="center">
-<sub>Sameer Mankotia · Full Stack and Database Developer · University of Idaho</sub>
+<sub>Sameer Mankotia · Software Engineer · University of Idaho</sub>
 </div>
