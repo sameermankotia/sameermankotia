@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/sameermankotia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Software+Engineer;ERP+Apps+%C2%B7+Data+Integration+%C2%B7+ETL;React+%C2%B7+FastAPI+%C2%B7+SQL+%C2%B7+Azure;Ph.D.+CS+%C2%B7+University+of+Idaho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Sameer+Mankotia+%F0%9F%91%8B;Software+Engineer;AI+Systems+%C2%B7+Secure+Firmware+%C2%B7+Full+Stack;Python+%C2%B7+C%2B%2B+%C2%B7+React+%C2%B7+FastAPI;Ph.D.+CS+%C2%B7+University+of+Idaho" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sameermankotia&label=Profile%20views&color=378ADD&style=for-the-badge)](https://github.com/sameermankotia)
-[![Focus](https://img.shields.io/badge/Focus-ERP%20%26%20Data%20Integration-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Secure%20Systems-1D9E75?style=for-the-badge&labelColor=0D1117)](https://github.com/sameermankotia)
 [![IIDS](https://img.shields.io/badge/Building%20@-IIDS%20UIdaho-534AB7?style=for-the-badge&labelColor=0D1117)](https://www.iids.uidaho.edu)
 [![Status](https://img.shields.io/badge/Open%20to-Full%20Time%20Roles-success?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/saameer24/)
 
@@ -15,73 +15,86 @@
 
 ## About me
 
-I am a **Software Engineer Intern at IIDS, University of Idaho**, where I build enterprise ERP applications for payroll and preaward grant management with React and FastAPI. My work covers ERP development, enterprise integrations, ETL pipelines, reporting dashboards and technical support.
+I am a **Ph.D. Candidate in Computer Science** at the University of Idaho, graduating Dec 2026. My dissertation is *AI Driven Memory Access Policy Enforcement for Industrial Control Systems, from C Source Code to RISC-V Hardware*.
 
-At Hewlett Packard Enterprise I supported manufacturing operations on SAP Business ByDesign, troubleshooting business critical ERP issues across purchasing, inventory and order processing.
+As a **Research Assistant**, I designed BHPol, a binary labeled hierarchical memory access policy model for power grid and industrial control firmware, and built FORGE, an end to end toolchain that carries policy from C source, through the UICC compiler, to instruction level enforcement on RISC-V hardware.
 
-I am a **Ph.D. Candidate in Computer Science** at the University of Idaho, graduating Dec 2026.
+As an **AI and Web Development Intern at IIDS, University of Idaho**, I built a full stack payroll and preaward system with React, Flask and MongoDB, and developed MoE-Former++, a mixture of experts architecture.
+
+At **Hewlett Packard Enterprise** I engineered a real time manufacturing metrics platform in C# (.NET Core) and React.
 
 ```yaml
-role:        Software Engineer · ERP and Data Integration
-languages:   Python, SQL, C++, JavaScript, TypeScript, Bash
-databases:   PostgreSQL, MySQL, relational design, query optimization
-backend:     FastAPI, REST APIs, API integration, data access layers
-data:        Azure Data Factory, ETL, Power BI, data validation
-testing:     NUnit, Jest, Playwright, Postman
-currently:   Building payroll and preaward ERP apps at IIDS, University of Idaho
+role:        Software Engineer · AI and Secure Systems
+languages:   Python, C, C++, C#, JavaScript, TypeScript, SQL, Bash
+ai_and_ml:   LLM agents, agentic coding (SWE-agent, OpenHands), reinforcement learning (GRPO, TRL), mixture of experts, federated learning, Claude Code, ChatGPT
+systems_dev: Linux, RISC-V, REST APIs, FastAPI, Flask, Django, React, Node.js, .NET Core, PostgreSQL, MongoDB, TCP/IP
+infra_test:  Docker, Kubernetes, Git, GitHub Actions, Jenkins, Jira, Azure DevOps, CMake, GDB, Pytest, Jest, Playwright, Selenium, Cypress
+currently:   Research Assistant and AI and Web Development Intern, University of Idaho
 ```
 
 ## What I work on
 
-| 🏢 ERP and Enterprise Apps | 🔄 Data and Integration | 🧪 Testing and Support |
+| 🔐 Secure Systems | 🤖 AI and ML | 🌐 Full Stack and Testing |
 |---|---|---|
-| Payroll and preaward ERP workflows | ETL pipelines with Azure Data Factory | Unit and integration tests with Jest |
-| Business process automation | REST API integration | End to end UI tests with Playwright |
-| Approval and transaction dashboards | Power BI reporting | API testing with Postman |
-| SAP Business ByDesign support | SQL query optimization | Root cause analysis and debugging |
+| BHPol memory access policy model | LLM agents and agentic coding | React, Flask, FastAPI and .NET Core apps |
+| FORGE toolchain from C source to RISC-V | Mixture of experts (MoE-Former++) | REST API design and integration |
+| UICC compiler and FlexSiMArch simulator | GRPO and TRL fine tuning on Apple Silicon | Jest, Playwright, Selenium and Cypress tests |
+| CWE coverage for firmware security | Federated learning | CI/CD with GitHub Actions and Jenkins |
 
 ## Tech stack
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js,ts,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,bash&theme=dark)](https://skillicons.dev)
 
-**Databases and backend**
+**Backend and databases**
 
-[![Backend](https://skillicons.dev/icons?i=postgres,mysql,fastapi,nodejs&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,dotnet,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-**Cloud, tools and testing**
+**Infra, tools and testing**
 
-[![Tools](https://skillicons.dev/icons?i=azure,docker,linux,git,jest,postman,visualstudio&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,githubactions,jenkins,jira,azure,cmake,jest,playwright,selenium,cypress&theme=dark)](https://skillicons.dev)
 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0D1117)
-![SAP Business ByDesign](https://img.shields.io/badge/SAP%20Business%20ByDesign-0FAAFF?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-![NUnit](https://img.shields.io/badge/NUnit-22A34A?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC%20V-283272?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![TRL](https://img.shields.io/badge/TRL%20GRPO-FFD21E?style=flat-square&labelColor=0D1117)
 
-## 🚀 Highlight project
+## 🚀 Highlight projects
 
-### FlowLedger: ERP Data Integration and Reporting Pipeline
+### AI Powered Continuous Testing Platform
 
-Python ETL pipeline that joins CRM customer data with ERP project and invoice records in PostgreSQL to build one dataset for enterprise reporting and financial analysis.
+Analyzes Git diffs to find affected modules and APIs and runs only the relevant tests.
 
-* Cleaning and validation rules catch duplicates, invalid dates, bad amounts and orphaned references, and log each rejected record with the reason.
-* SQL reports with joins, CTEs and window functions cover overdue invoices, receivables aging, customer balances, monthly invoicing and project profitability.
-* Streamlit dashboard shows financial KPIs, receivables, project performance, data quality and ETL run history.
-* Idempotent loads, transactional updates, audit logging and automated tests keep the data consistent and traceable.
+* LLM agents generate unit, API and edge case tests.
+* CI history flags flaky tests and regressions, with pull request feedback through GitHub Actions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-30363D?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Developer Productivity Intelligence Platform
+
+Combines GitHub pull request, review and CI/CD data to find workflow bottlenecks.
+
+* Dashboards for deployment frequency, lead time, change failure rate and recovery time.
+* LLM driven recommendations for AI assisted workflows.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## 📌 Featured projects
 
@@ -112,10 +125,11 @@ pinned repositories every six hours.
 
 | | Organization | Role | Dates | Focus |
 |---|---|---|---|---|
-| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **IIDS, University of Idaho** | Software Engineer Intern | Jan 2025 to present | Payroll and preaward ERP apps (React, FastAPI), ADF ETL pipelines, Power BI, Jest testing |
-| | Hewlett Packard Enterprise | Software Engineer Summer Intern | May 2024 to Aug 2024 | SAP Business ByDesign support, ERP troubleshooting, data validation and reporting |
-| | Office of Information and Technology, University of Idaho | Software Developer Intern | Jan 2023 to May 2024 | MyUI cards in React and Node.js, Campus Labs REST API, Playwright tests, SQL tuning |
-| | Information Technology Services, University of Idaho | ITS Customer Representative | Jan 2022 to Dec 2022 | Duo MFA, campus Wi-Fi and network support for 10,000+ users |
+| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **University of Idaho** | Research Assistant | Jan 2024 to present | BHPol policy model, FORGE toolchain, FlexSiMArch RISC-V simulator for Schweitzer Engineering Laboratories, JSON driven integration tests with 100% pass rate |
+| ![current](https://img.shields.io/badge/-current-1D9E75?style=flat-square) | **Institute for Interdisciplinary Data Sciences, University of Idaho** | AI and Web Development Intern | Jan 2025 to present | Payroll and preaward system (React, Bootstrap, Flask, MongoDB), Jest and React Testing Library tests, MoE-Former++ |
+| | Hewlett Packard Enterprise | Software Engineer Intern | May 2025 to Aug 2025 | Real time manufacturing metrics platform in C# (.NET Core) and React, REST API layer, SQL tuning and in memory caching |
+| | Office of Information and Technology, University of Idaho | Software Developer Intern | Jan 2023 to May 2024 | Sprint planning in Jira and Azure DevOps, MyUI cards in React and Node.js on the Campus Labs REST API, Playwright tests |
+| | Cisco, Mumbai, India | Summer Software Engineer Intern | Jun 2020 to Aug 2020 | Jest unit tests, Selenium WebDriver tests, Cypress API and UI integration tests |
 
 ## Education
 
@@ -127,16 +141,15 @@ pinned repositories every six hours.
 
 ## Selected publications
 
+5 papers in total. Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en).
+
 | Paper | Venue | Year |
 |---|---|---|
-| **ReactSmart:** ML Driven Adaptation for Scalable React Based Web Application Performance | IEEE Access, Vol. 14 | 2026 |
-| **FedPrIDS:** Privacy Preserving Federated Learning for Collaborative Network Intrusion Detection in IoT | [J. Cybersecurity and Privacy, MDPI](https://www.mdpi.com/2624-800X/6/1/10) | 2026 |
+| **ReactSmart:** ML Driven Adaptation for Scalable React Based Web Application Performance. Cut initial load time by 47.3% and time to interactive by 52.1% with 89.7% prediction accuracy over 10,000 simulated sessions | IEEE Access, Vol. 14 | 2026 |
+| **FedPrIDS:** Privacy Preserving Federated Learning for Collaborative Network Intrusion Detection in IoT. Reached 90.3%, 89.7% and 92.1% accuracy on three public datasets | [J. Cybersecurity and Privacy, MDPI](https://www.mdpi.com/2624-800X/6/1/10) | 2026 |
 | **FlexSiMArch:** An Extensible Simulator for Secure by Design Processor Technologies | IEEE MCSoC | 2025 |
 | Hierarchical Firmware Level Security Policy for Industrial Control Systems | IEEE CARS | 2025 |
-| **MatFlow:** An Online Machine Learning System for Bandgap Engineering (web ML platform) | [SSRN preprint](https://ssrn.com/abstract=4808029) | 2024 |
-| Deep Learning Powered Interactive Art: Gesture Recognition and Multi Style Digital Painting | [IRE Journals](https://www.irejournals.com/formatedpaper/1706740.pdf) | 2024 |
-
-Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en).
+| Paper listed on Google Scholar | IEEE Security and Privacy | 2025 |
 
 ## GitHub stats
 
@@ -149,21 +162,13 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2
 
 </div>
 
-## Leadership
-
-| Role | Organization | Dates |
-|---|---|---|
-| Vice Chair, IEEE Computer Society | IEEE Palouse Region | 2025 to present |
-| Webmaster | IEEE Palouse Region | 2025 to present |
-| Director for Student Resources | Associated Students of the University of Idaho (ASUI) | 2022 to 2023 |
-
-## Recognition and certifications
+## Honors
 
 | Award | Description |
 |---|---|
-| Best Student Employee 2024 to 25 and 2025 to 26 | University of Idaho |
+| Best Student Employee Award 2024–25 | University of Idaho |
+| Outstanding Senior Year Award 2023–24 | University of Idaho |
 | Smart India Hackathon, 3rd place | National level competition |
-| SQL Certification | HackerRank |
 
 ## Contact
 
@@ -172,7 +177,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=QGQA0RM2
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameermankotia)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGQA0RM2okMC&hl=en)
 
-Open to: full time software engineer roles · ERP and enterprise application development · data integration and reporting
+Open to: full time software engineer roles · AI and ML engineering · secure systems and full stack development
 
 <div align="center">
 <sub>Sameer Mankotia · Software Engineer · University of Idaho</sub>
